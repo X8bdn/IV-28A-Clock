@@ -1,1 +1,1 @@
-# IV-28A-Clock
+This is my first, I can say training repository. This project is IV-28A VFD lamp clock. 1st iteration is going to be really simple, MVP product. As the time will pass, it will get more and more features. But still, it's just a little pet project, for fun, as I love VFD lamps, and their glow. 
